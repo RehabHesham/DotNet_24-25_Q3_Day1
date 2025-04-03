@@ -5,3 +5,4 @@ book.pdf
 /images/*.txt
 
 *.pdf
+.vs
