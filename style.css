@@ -7,9 +7,17 @@ h1 {
   padding: 20px;
 }
 
+#slider {
+  background-color: antiquewhite;
+  padding: 0px;
+  margin: 0px;
+}
 
-#slider{
-    background-color: antiquewhite;
-    padding: 0px;
-    margin: 0px;
+#articles {
+  background-color: brown;
+}
+
+.article {
+  display: inline-block;
+  width: 40%;
 }
