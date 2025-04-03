@@ -6,3 +6,10 @@ h1 {
 #content {
   padding: 20px;
 }
+
+
+#slider{
+    background-color: antiquewhite;
+    padding: 0px;
+    margin: 0px;
+}
